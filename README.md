@@ -8,7 +8,7 @@ Cosine Similarity measures the similarity between two vectors of an inner produc
 the angle between two vectors and determines whether two vectors are pointing in roughly the same direction. 
 It is often used to measure document similarity in text analysis. (HAN, J.; KAMBER, M. **Data Mining: Concepts and Techniques.**)
 
-Here we have the formula of this equation
+Here we have the formula of this equation  
 ![Cosine Similarity Formula](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEEPQk9z7Fu1ij0WBFJ0HUQWQNfBvCM87VG4F64j0&s)
 
 I've opted by using the Cosine Similarity instead of the Euclidean model because even if the two similar documents have
